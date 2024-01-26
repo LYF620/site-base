@@ -8,7 +8,7 @@ const About: NextPage = () => {
     <div className={styles.container}>
       <main className={styles.main}>
         <h2>about</h2>
-        <Button>点击开启弹窗</Button>
+        <Button>点击开启弹窗22</Button>
 
       </main>
     </div>
